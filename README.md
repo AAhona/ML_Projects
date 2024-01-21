@@ -1,1 +1,6 @@
 ## END TO END DATA SCIENCE PROJECT ##
+
+MLFLOW_TRACKING_URI=https://dagshub.com/AAhona/ML_Projects.mlflow \
+MLFLOW_TRACKING_USERNAME=AAhona \
+MLFLOW_TRACKING_PASSWORD=71208b710e2cbbc1f3f04fcb20dbf7869028f464 \
+python script.py

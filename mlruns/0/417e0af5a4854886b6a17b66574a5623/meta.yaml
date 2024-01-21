@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Projects/DataScience_1/mlruns/0/417e0af5a4854886b6a17b66574a5623/artifacts
+end_time: 1705859748891
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 417e0af5a4854886b6a17b66574a5623
+run_name: dazzling-bear-617
+run_uuid: 417e0af5a4854886b6a17b66574a5623
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705859743688
+status: 3
+tags: []
+user_id: root
