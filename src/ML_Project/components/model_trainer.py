@@ -2,6 +2,7 @@ import os
 import sys
 from dataclasses import dataclass
 from urllib.parse import urlparse
+import dagshub
 import mlflow
 import mlflow.sklearn
 import numpy as np
